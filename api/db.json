@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Leanne Graham",
+      "department": "CEO",
+      "salary": "1598054",
+      "id": "K1yMfru"
+    },
+    {
+      "name": "Ervin Howell",
+      "department": "CTO",
+      "salary": "42342",
+      "id": "K1pMfru"
+    },
+    {
+      "name": "Clementine Bauch",
+      "department": "aggregate real-time technologies",
+      "salary": "54354",
+      "id": "K1pQfru"
+    },
+    {
+      "name": "Patricia Lebsack",
+      "department": "revolutionize end-to-end systems",
+      "salary": "456454",
+      "id": "K1pWfru"
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "department": "e-enable strategic application",
+      "salary": "77552",
+      "id": "K1pRfru"
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "department": "harness real-time e-markets",
+      "salary": "23553",
+      "id": "K1pTfru"
+    }
+  ]
+}
